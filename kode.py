@@ -1,0 +1,2 @@
+navn = "burim"
+print(navn)
